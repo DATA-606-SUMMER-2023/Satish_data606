@@ -1,3 +1,3 @@
 # Folder for Documentation
 
-Forproposal, PPT presentation, project report.
+For proposal, PPT presentation, project report.
