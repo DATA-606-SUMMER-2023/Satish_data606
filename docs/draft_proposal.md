@@ -14,11 +14,9 @@
 -  Visualizations, including plots, charts, and maps, to illustrate patterns, relationships, and model results.
 -  Recommendations for businesses, users, and the Yelp platform based on the insights and predictive models developed.
 -  **Results of the preliminary EDA:**
--  * Bar graph showing the review count with respect to each state.
--  * Pennsylvania(PA) and Florida(FL) staes has highest review count.
--  * Bar graph showing the status of the restaurant whether it is closed or open.
+-  * Pennsylvania(PA) and Florida(FL) states has highest review count.
 -  * There are 119698 restaurants in open condition and 30468 in closed condition.
--  * we can notice the average rating of the whole restaurant dataset is 3.59.
+-  * Observed the average rating of the whole restaurant dataset is 3.59.
 -  * Distribution of ratings show that the ratings are mostly fall in the 3.5 to 4.0 range.
 -  * Observed the top 20 business categories. 
 -  * Restaurants and Food business has highest category counts.
