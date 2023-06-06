@@ -2,6 +2,7 @@
 
 - **Author:** SatishReddy Bathula
 -  **Term:** Summer 2023
+-  [Data_source](https://www.yelp.com/dataset)
 -  **Title:**  Exploratory Data Analysis and Predictive Modeling of the Yelp Dataset.
 -  **Introduction:** The purpose of this proposal is to conduct an exploratory data analysis (EDA) of the Yelp dataset and build predictive models to gain insights into business reviews and user interactions on the Yelp platform. The Yelp dataset provides a rich collection of data that can be leveraged for understanding user sentiments, business characteristics, user behavior, and predicting future trends.
 -  **Objectives:**
@@ -12,3 +13,12 @@
 -  A comprehensive report detailing the findings and insights obtained from the EDA and predictive modeling.
 -  Visualizations, including plots, charts, and maps, to illustrate patterns, relationships, and model results.
 -  Recommendations for businesses, users, and the Yelp platform based on the insights and predictive models developed.
+-  **Results of the preliminary EDA:
+-  * Bar graph showing the review count with respect to each state.
+-  * Pennsylvania(PA) and Florida(FL) staes has highest review count.
+-  * Bar graph showing the status of the restaurant whether it is closed or open.
+-  * There are 119698 restaurants in open condition and 30468 in closed condition.
+-  * we can notice the average rating of the whole restaurant dataset is 3.59.
+-  * Distribution of ratings show that the ratings are mostly fall in the 3.5 to 4.0 range.
+-  * Observed the top 20 business categories. 
+-  * Restaurants and Food business has highest category counts.
