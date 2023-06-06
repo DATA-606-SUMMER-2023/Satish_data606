@@ -13,7 +13,7 @@
 -  A comprehensive report detailing the findings and insights obtained from the EDA and predictive modeling.
 -  Visualizations, including plots, charts, and maps, to illustrate patterns, relationships, and model results.
 -  Recommendations for businesses, users, and the Yelp platform based on the insights and predictive models developed.
--  **Results of the preliminary EDA:
+-  **Results of the preliminary EDA:**
 -  * Bar graph showing the review count with respect to each state.
 -  * Pennsylvania(PA) and Florida(FL) staes has highest review count.
 -  * Bar graph showing the status of the restaurant whether it is closed or open.
