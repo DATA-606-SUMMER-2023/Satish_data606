@@ -4,8 +4,8 @@
 -  **Term:** Summer 2023
 -  [Data_source](https://www.yelp.com/dataset)
 -  **Title:**  Exploratory Data Analysis and Predictive Modeling of the Yelp Dataset.
--  ## What is your issue of interest (provide sufficient background information)?##
--  The purpose of this proposal is to conduct an exploratory data analysis (EDA) of the Yelp dataset and build predictive models to gain insights into business reviews and user interactions on the Yelp platform. The Yelp dataset provides a rich collection of data that can be leveraged for understanding user sentiments, business characteristics, user behavior, and predicting future trends.
+-  ## What is your issue of interest (provide sufficient background information)?
+  The purpose of this proposal is to conduct an exploratory data analysis (EDA) of the Yelp dataset and build predictive models to gain insights into business reviews and user interactions on the Yelp platform. The Yelp dataset provides a rich collection of data that can be leveraged for understanding user sentiments, business characteristics, user behavior, and predicting future trends.
 -  **Objectives:**
 -  Perform an initial exploratory analysis of the Yelp dataset to understand the distribution of ratings, reviews, and other relevant variables.
 -  Identify key factors influencing user ratings and review sentiment through feature analysis and correlation studies.
