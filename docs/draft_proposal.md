@@ -9,27 +9,48 @@
 **Dataset Description:** Business_dataset
 
 **business_id:** A unique identifier for each business.
+
 **name:** The name of the business.
+
 **address:** The street address of the business.
+
 **city:** The city where the business is located.
+
 **state:**  The state where the business is located.
+
 **postal_code:** The postal code or ZIP code of the business location.
+
 **latitude and longitude:**  The geographical coordinates of the business location.
+
 **stars:** The average rating of the business on Yelp (ranging from 1 to 5 stars).
+
 **review_count:** The number of reviews the business has received.
+
 **categories:**  A list of categories or tags associated with the business.
+
 **attributes:** Additional attributes or features of the business (e.g., whether it has Wi-Fi, accepts credit cards, etc.).
+
 **is_open:** A flag indicating whether the business is open or closed.
+
 **hours:** The operating hours of the business for different days of the week.
+
 **Review_dataset:**
 **review_id:** A unique identifier for each review.
+
 **user_id:** The user ID of the reviewer.
+
 **business_id:** A unique identifier for each business.
+
 **stars:** The rating given by the reviewer (ranging from 1 to 5 stars).
+
 **text:** The text content of the review.
+
 **useful:** The number of users who voted the review as useful.
-**funny:** The number of users who voted the review as funny. 
-**cool:** The number of users who voted the review as cool. 
+
+**funny:** The number of users who voted the review as funny.
+
+**cool:** The number of users who voted the review as cool.
+
 **date:** The date the review was posted.
 
 
