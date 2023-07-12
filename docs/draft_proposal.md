@@ -7,7 +7,7 @@
 ## What is your issue of interest (provide sufficient background information)?
   The Yelp dataset I have chosen for this project due to its rich and diverse data on businesses, reviews, and user information. With comprehensive details on restaurants including location, categories, ratings, and reviews, the dataset offers practicality and real-world relevance. Moreover, the dataset presents a challenging and comprehensive task for building a restaurant recommendation and rating prediction system, involving textual data, user preferences, and diverse rating behaviors. By using the Yelp dataset, I can explore various algorithms and techniques in natural language processing, machine learning, and recommendation systems. Ultimately, working with this dataset provides learning opportunities and allows me to research in these fields. Overall, the richness, relevance, popularity, and challenges offered by the Yelp dataset make it a compelling choice for developing an effective restaurant recommendation and rating prediction system.
 ## Dataset Description:
-Business_dataset
+**Business_dataset:**
 
 **business_id:** A unique identifier for each business.
 
