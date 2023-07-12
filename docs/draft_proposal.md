@@ -52,18 +52,25 @@
 **cool:** The number of users who voted the review as cool.
 
 **date:** The date the review was posted.
+|Dataset | Rows | Columns
+---|---|---
+business| 50000 | 14
+reviews | 50000 | 9
 
-## Machine Learning Algorithms intended to use:
+- ## Objectives:
+-  Perform an initial exploratory analysis of the Yelp dataset to understand the distribution of ratings, reviews, and other relevant variables.
+-  Identify key factors influencing user ratings and review sentiment through feature analysis and correlation studies.
+-  Utilize machine learning techniques, such as sentiment analysis and text classification, to predict sentiment polarity and identify key factors affecting positive or negative reviews.
+-  Using the machine learning algorithmns to recommend the best restaurant.
+-  ## Machine Learning Algorithms intended to use:
 - Multinomial NB
 - Support vector Machines(SVM)
 - Random Forest
 - Gradient Boosting
--  **Objectives:**
--  Perform an initial exploratory analysis of the Yelp dataset to understand the distribution of ratings, reviews, and other relevant variables.
--  Identify key factors influencing user ratings and review sentiment through feature analysis and correlation studies.
--  Utilize machine learning techniques, such as sentiment analysis and text classification, to predict sentiment polarity and identify key factors affecting positive or negative reviews.
--  **Expected Deliverables:**
+-  ## Expected Deliverables:
 -  A comprehensive report detailing the findings and insights obtained from the EDA and predictive modeling.
 -  Visualizations, including plots, charts, and maps, to illustrate patterns, relationships, and model results.
 -  Recommendations for businesses, users, and the Yelp platform based on the insights and predictive models developed.
+-  ## Deployment Application:
+-  Streamlit
 
