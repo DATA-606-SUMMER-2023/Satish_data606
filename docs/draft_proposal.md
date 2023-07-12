@@ -36,6 +36,7 @@
 **hours:** The operating hours of the business for different days of the week.
 
 **Review_dataset:**
+
 **review_id:** A unique identifier for each review.
 
 **user_id:** The user ID of the reviewer.
