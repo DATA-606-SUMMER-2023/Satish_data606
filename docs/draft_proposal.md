@@ -53,8 +53,12 @@
 
 **date:** The date the review was posted.
 
-
-  -  **Objectives:**
+## Machine Learning Algorithms intended to use:
+- Multinomial NB
+- Support vector Machines(SVM)
+- Random Forest
+- Gradient Boosting
+-  **Objectives:**
 -  Perform an initial exploratory analysis of the Yelp dataset to understand the distribution of ratings, reviews, and other relevant variables.
 -  Identify key factors influencing user ratings and review sentiment through feature analysis and correlation studies.
 -  Utilize machine learning techniques, such as sentiment analysis and text classification, to predict sentiment polarity and identify key factors affecting positive or negative reviews.
@@ -62,10 +66,4 @@
 -  A comprehensive report detailing the findings and insights obtained from the EDA and predictive modeling.
 -  Visualizations, including plots, charts, and maps, to illustrate patterns, relationships, and model results.
 -  Recommendations for businesses, users, and the Yelp platform based on the insights and predictive models developed.
--  **Results of the preliminary EDA:**
--  * Pennsylvania(PA) and Florida(FL) states has highest review count.
--  * There are 119698 restaurants in open condition and 30468 in closed condition.
--  * Observed the average rating of the whole restaurant dataset is 3.59.
--  * Distribution of ratings show that the ratings are mostly fall in the 3.5 to 4.0 range.
--  * Observed the top 20 business categories. 
--  * Restaurants and Food business has highest category counts.
+
