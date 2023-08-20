@@ -59,5 +59,5 @@ The Yelp dataset I have chosen for this project due to its rich and diverse data
 business| 50000 | 14
 reviews | 50000 | 9
 # Results of EDA #
-![Top 10 Categories in Yelp Dataset]("C:\Users\bsati\OneDrive\Pictures\Screenshots\Top10_Categories.png")
+![Top 10 Categories in Yelp Dataset](/"C:\Users\bsati\OneDrive\Pictures\Screenshots\Top10_Categories.png")
 
