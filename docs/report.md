@@ -69,7 +69,8 @@ reviews | 50000 | 9
 ![Sentiment Distribution](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Count%20of%20reviews.png)
 # ML Algorithm Results #
 - Algorithm Used: Multinomial Naive bias algorithm
-- ![Result](
+- ![Result](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Accuracy.png)
+- 
 
 
 
