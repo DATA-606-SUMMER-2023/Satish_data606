@@ -66,6 +66,6 @@ reviews | 50000 | 9
 ![Percentage of restaurants by city](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Percantage%20of%20restaurants%20in%20different%20cities.png)
 ![Five star rating count](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Number%20of%205%20star%20ratings%20restaurants%20in%20florida.png)
 ![Word Cloud](https://github.com/satishcz12651/Satish_data606/blob/main/docs/wordcloud.png)
-![Sentiment Distribution](
+![Sentiment Distribution](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Count%20of%20reviews.png)
 
 
