@@ -70,12 +70,21 @@ reviews | 50000 | 9
 # ML Algorithm Results #
 - Algorithm Used: Multinomial Naive bias algorithm
 - ![Result](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Accuracy.png)
-- Result Example:
-
+# Result Example #
 | User_id| Restaurants Recommended
 ----|----
 pZQBUJDh7EbDnGb3j474cw|Cafe Con Leche,Chipotle Mexican Grill,Four Green Fields,O'Briens Irish Pub,The Pearl,Top Shelf Sports Lounge,Walmart Supercenter,Williams Sub Shop
 zJKasF9p4b_CoVeXt5RvTg|The Pearl,Top Shelf Sports Lounge
+# Learnings #
+- Restaurants which has the highest average rating have the highest reviews given to the customers which means if the service is good people tend to give ratings.
+- When you are dealing with huge data make sure you check the computational source because it will take a lot of time to work with the huge dataset.
+- Feedback plays a crucial role in popularity as it attracts customers from different places.
+# Future Scope #
+- Can explore more recommendation algorithms like collaborative filtering and content-based filtering techniques.
+- Mobile app development by considering User’s preferences and choices so that they can select the restaurant based on their interests.
+- Exploring the integrating of geolocation and navigation features to guide users to their chosen restaurants and provide directions
+
+
 
 
 
