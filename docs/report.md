@@ -71,6 +71,7 @@ reviews | 50000 | 9
 - Algorithm Used: Multinomial Naive bias algorithm
 - ![Result](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Accuracy.png)
 - Result Example:
+
 | User_id| Restaurants Recommended
 ----|----
 pZQBUJDh7EbDnGb3j474cw|Cafe Con Leche
