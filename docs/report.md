@@ -62,5 +62,5 @@ reviews | 50000 | 9
 ![Top 10 Categories in Yelp Dataset](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Top10_Categories.png?raw=true)
 ![Average Rating Distribution](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Average_review%20Bar%20plot.png?raw=true)
 
-![Distribution of state](
+![Distribution of state](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Distribution%20of%20state.png)
 
