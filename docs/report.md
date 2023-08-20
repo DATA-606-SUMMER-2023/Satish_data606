@@ -58,4 +58,6 @@ The Yelp dataset I have chosen for this project due to its rich and diverse data
 ---|---|---
 business| 50000 | 14
 reviews | 50000 | 9
+# Results of EDA #
+![Top 10 Categories in Yelp Dataset]
 
