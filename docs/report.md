@@ -1,6 +1,6 @@
 * *Author*: SatishReddy Bathula
 * *Term*: Summer 2023
-* *PPT*:
+* *PPT*:(https://github.com/satishcz12651/Satish_data606/blob/main/docs/Review%20Prediction%20and%20Sentiment%20Analysis%20on%20Yelp%20Dataset.pptx)
 * *Youtube*:
 * *Github*:
 # Background #
