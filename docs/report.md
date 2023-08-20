@@ -64,7 +64,7 @@ reviews | 50000 | 9
 ![Distribution of state](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Distribution%20of%20state.png)
 ![Distribution of restaurants in florida](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Distribution%20of%20restaurants%20in%20florida.png)
 ![Percentage of restaurants by city](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Percantage%20of%20restaurants%20in%20different%20cities.png)
-![Five star rating count](
+![Five star rating count](https://github.com/satishcz12651/Satish_data606/blob/main/docs/Number%20of%205%20star%20ratings%20restaurants%20in%20florida.png)
 ![Word Cloud](
 ![Sentiment Distribution](
 
