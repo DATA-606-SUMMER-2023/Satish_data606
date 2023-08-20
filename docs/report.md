@@ -74,7 +74,8 @@ reviews | 50000 | 9
 
 | User_id| Restaurants Recommended
 ----|----
-pZQBUJDh7EbDnGb3j474cw|Cafe Con Leche
+pZQBUJDh7EbDnGb3j474cw|Cafe Con Leche,Chipotle Mexican Grill,Four Green Fields,O'Briens Irish Pub,The Pearl,Top Shelf Sports Lounge,Walmart Supercenter,Williams Sub Shop
+zJKasF9p4b_CoVeXt5RvTg|The Pearl,Top Shelf Sports Lounge
 
   
 
