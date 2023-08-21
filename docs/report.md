@@ -83,6 +83,7 @@ zJKasF9p4b_CoVeXt5RvTg|The Pearl,Top Shelf Sports Lounge
 - Can explore more recommendation algorithms like collaborative filtering and content-based filtering techniques.
 - Mobile app development by considering User’s preferences and choices so that they can select the restaurant based on their interests.
 - Exploring the integrating of geolocation and navigation features to guide users to their chosen restaurants and provide directions.
+  
 
 
 
